@@ -31,6 +31,16 @@
 	* [中文网](http://eslint.cn/)
 * Moment.js
 	* [中文网](http://momentjs.cn/)
+* [Ant Design](https://ant.design/index-cn)
+* [Preact](https://preactjs.com/)
+* [Element](https://element.eleme.io/)
+* React
+	* [中文网](https://react.docschina.org/)
+* [Muse-UI](https://muse-ui.org)
+* [Rax](https://alibaba.github.io/rax/)
+* [Nuxt.js](https://zh.nuxtjs.org)
+* [Next.js](https://nextjs.org/)
+* [mongoDB](https://www.mongodb.com/)
 
 # 求职
 
@@ -93,6 +103,7 @@
 * [大后端](http://www.dahouduan.com/)
 * [Awesomes](https://www.awesomes.cn/)
 * [开源工厂](https://openingsource.org/)
+* [前端学堂](http://www.felearn.com/)
 
 # 技术博客
 
