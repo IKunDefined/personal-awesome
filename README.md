@@ -48,6 +48,9 @@
 * [BOSS直聘](https://www.zhipin.com/)
 * [拉勾网](https://www.lagou.com/)
 * [猿聘](https://job.imooc.com/)
+* [猎聘](https://www.liepin.com/)
+* [前程](https://www.51job.com/)
+* [智联](https://www.zhaopin.com/)
 
 # 学习
 
@@ -84,6 +87,17 @@
 * [ScriptOJ](http://scriptoj.mangojuice.top/)
 * [领扣](https://leetcode-cn.com/)
 
+# 工具
+
+* [Can I use](https://caniuse.com/)
+
+# JS相关
+
+* [Javascript 秘密花园](https://bonsaiden.github.io/JavaScript-Garden/zh/#object.general)
+* [Google JavaScript Style Guide](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
+* [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/)
+* [JavaScript教程](https://wangdoc.com/javascript/)
+
 # 资讯/文章
 
 * [开源中国](https://www.oschina.net/)
@@ -114,6 +128,7 @@
 * [廖雪峰](https://www.liaoxuefeng.com/)
 * [颜海镜](https://yanhaijing.com/)
 * [ijse](http://ijser.cn/)
+* [最前端](http://bq69.com/blog/)
 
 # 国外相关
 
