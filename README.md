@@ -81,7 +81,7 @@
 * [Gitlab](https://about.gitlab.com/)
 * [SVN China](http://svnchina.com/)
 
-# 题目
+# 刷题
 
 * [牛客网](https://www.nowcoder.com/)
 * [ScriptOJ](http://scriptoj.mangojuice.top/)
@@ -130,8 +130,13 @@
 * [ijse](http://ijser.cn/)
 * [最前端](http://bq69.com/blog/)
 
+# 面试题集
+
+* [50道 CSS 基础面试题（附答案](http://web.jobbole.com/94152/)
+* [FE-interview](https://github.com/qiu-deqing/FE-interview)
+* [frontend_train](https://github.com/qianbin01/frontend_train)
+* [前端每日一题 - 饥人谷](https://blog.jirengu.com/?p=743)
+
 # 国外相关
 
 * [Stack Overflow](https://stackoverflow.com/)
-
-# Awesome List
