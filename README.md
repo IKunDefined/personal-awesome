@@ -90,6 +90,10 @@
 * [胡子课堂](http://huziketang.mangojuice.top/)
 * [优达学城](https://cn.udacity.com/)
 * [极客学院](https://www.jikexueyuan.com/)
+* [鱼C工作室](https://ilovefishc.com/)
+* [传智播客](http://www.itcast.cn/)
+* [海棠学院](http://apeclass.cn/)
+* [中国大学MOOC](https://www.icourse163.org/)
 
 # 托管
 
