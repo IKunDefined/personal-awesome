@@ -101,6 +101,9 @@
 * [传智播客](http://www.itcast.cn/)
 * [海棠学院](http://apeclass.cn/)
 * [中国大学MOOC](https://www.icourse163.org/)
+* [技术胖](http://jspang.com/)
+* [阮一峰](http://www.ruanyifeng.com/blog/)
+* [廖雪峰](https://www.liaoxuefeng.com/)
 
 # 托管
 
@@ -120,6 +123,8 @@
 # 工具
 
 * [Can I use](https://caniuse.com/)
+* [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+* [W3Techs](https://w3techs.com/)
 
 # JS相关
 
@@ -128,6 +133,7 @@
 * [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/)
 * [JavaScript教程](https://wangdoc.com/javascript/)
 * [ECMAScript 6 入门 ](http://es6.ruanyifeng.com/)
+* [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 
 # 资讯/文章
 
@@ -149,14 +155,13 @@
 * [Awesomes](https://www.awesomes.cn/)
 * [开源工厂](https://openingsource.org/)
 * [前端学堂](http://www.felearn.com/)
+* [w3ctech](https://www.w3ctech.com/)
 
 # 技术博客
 
 * [晚晴幽草轩](https://www.jeffjade.com/)
 * [月光博客](https://www.williamlong.info/)
 * [未来代码研究所](http://blog.atelier39.org/)
-* [阮一峰](http://www.ruanyifeng.com/blog/)
-* [廖雪峰](https://www.liaoxuefeng.com/)
 * [颜海镜](https://yanhaijing.com/)
 * [ijse](http://ijser.cn/)
 * [最前端](http://bq69.com/blog/)
