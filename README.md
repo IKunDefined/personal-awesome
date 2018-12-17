@@ -60,6 +60,11 @@
 * [FIBJS](http://fibjs.org/)
 * [DCLOUD](http://www.dcloud.io/index.html)
 * [jQuery WeUI](https://jqweui.cn/)
+* [GraphQL](http://graphql.cn/)
+* [Hexo](https://hexo.io/)
+* [Linux](https://www.kernel.org/)
+* [Ubuntu](https://www.ubuntu.com/index_kylin)
+* [CentOS](https://www.centos.org/)
 
 # 求职
 
@@ -70,6 +75,7 @@
 * [猎聘](https://www.liepin.com/)
 * [前程](https://www.51job.com/)
 * [智联](https://www.zhaopin.com/)
+* [实习僧](https://www.shixiseng.com/)
 
 # 学习
 
@@ -90,6 +96,7 @@
 * [胡子课堂](http://huziketang.mangojuice.top/)
 * [优达学城](https://cn.udacity.com/)
 * [极客学院](https://www.jikexueyuan.com/)
+* [极客学院wiki](https://wiki.jikexueyuan.com/)
 * [鱼C工作室](https://ilovefishc.com/)
 * [传智播客](http://www.itcast.cn/)
 * [海棠学院](http://apeclass.cn/)
@@ -120,6 +127,7 @@
 * [Google JavaScript Style Guide](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
 * [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/)
 * [JavaScript教程](https://wangdoc.com/javascript/)
+* [ECMAScript 6 入门 ](http://es6.ruanyifeng.com/)
 
 # 资讯/文章
 
@@ -152,6 +160,8 @@
 * [颜海镜](https://yanhaijing.com/)
 * [ijse](http://ijser.cn/)
 * [最前端](http://bq69.com/blog/)
+* [deerchao](http://deerchao.net/)
+* [张鑫旭](https://www.zhangxinxu.com/)
 
 # 面试题集
 
@@ -163,3 +173,7 @@
 # 国外相关
 
 * [Stack Overflow](https://stackoverflow.com/)
+
+# Awesome List
+
+* [FKS Documentation](http://html5ify.com/fks/)
