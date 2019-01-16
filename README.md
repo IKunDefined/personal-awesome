@@ -31,11 +31,13 @@
 	* [中文网](http://eslint.cn/)
 * Moment.js
 	* [中文网](http://momentjs.cn/)
-* [Ant Design](https://ant.design/index-cn)
 * [Preact](https://preactjs.com/)
 * [Element](https://element.eleme.io/)
 * React
 	* [中文网](https://react.docschina.org/)
+* Webpack
+	* [官网](https://webpack.github.io/)
+	* [中文网](https://www.webpackjs.com/)
 * [Rax](https://alibaba.github.io/rax/)
 * [Nuxt.js](https://zh.nuxtjs.org)
 * [Next.js](https://nextjs.org/)
@@ -50,6 +52,7 @@
 * [DCLOUD](http://www.dcloud.io/index.html)
 * [GraphQL](http://graphql.cn/)
 * [Hexo](https://hexo.io/)
+* [Vue](https://cn.vuejs.org/)
 
 ## UI库
 
@@ -66,6 +69,7 @@
 * [Vant](https://youzan.github.io/vant/#/zh-CN/intro)
 * [Muse-UI](https://muse-ui.org)
 * [VONIC](https://wangdahoo.github.io/vonic/docs/#/)
+* [Ant Design](https://ant.design/index-cn)
 
 ## Linux
 
