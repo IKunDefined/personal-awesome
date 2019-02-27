@@ -2,24 +2,7 @@
 
 因为学习的东西越来越多，Chrome的书签夹给我的感觉实在是太“重”了，但又舍不得把一个个都删掉，所以，就诞生了这个Awesome-list。
 
-完全是方便自己使用，以上。
-
-# 目录
-
-- [官网](#官网)
-	- [UI库](#UI库)
-	- [Linux](#Linux)
-- [求职](#求职)
-- [学习](#学习)
-- [托管](#托管)
-- [刷题](#刷题)
-- [工具](#工具)
-- [JS相关](#JS相关)
-- [资讯/文章](#资讯/文章)
-- [技术博客](#技术博客)
-- [面试题集](#面试题集)
-- [国外相关](#国外相关)
-- [AwesomeList](#AwesomeList)
+完全是方便自己使用。
 
 # 官网
 
@@ -211,3 +194,25 @@
 
 * [FKS Documentation](http://html5ify.com/fks/)
 * [awesome](https://github.com/sindresorhus/awesome)
+
+# 其他
+
+## 使用了Vue的网站
+
+* 简书
+* bilibili
+* 掘金
+* vue官网
+* 秒拍
+
+## 使用了React的网站
+
+* 知乎
+* React官网
+
+## Console中有丶东西的网站
+
+* bilibili
+* 百度
+* 豆瓣
+* 知乎
