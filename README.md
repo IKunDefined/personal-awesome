@@ -53,6 +53,7 @@
 * [GraphQL](http://graphql.cn/)
 * [Hexo](https://hexo.io/)
 * [Vue](https://cn.vuejs.org/)
+* [Ember](https://emberjs.com/)
 
 ## UI库
 
@@ -168,6 +169,10 @@
 * [开源工厂](https://openingsource.org/)
 * [前端学堂](http://www.felearn.com/)
 * [w3ctech](https://www.w3ctech.com/)
+
+# 技术社区
+
+* [React China](http://react-china.org/)
 
 # 技术博客
 
