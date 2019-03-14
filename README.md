@@ -33,6 +33,7 @@
 	* [中文网](http://momentjs.cn/)
 * [Preact](https://preactjs.com/)
 * React
+	* [官网](https://reactjs.org/)
 	* [中文网](https://react.docschina.org/)
 * Webpack
 	* [官网](https://webpack.github.io/)
