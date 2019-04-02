@@ -9,6 +9,9 @@
 * Node.js
 	* [官网](https://nodejs.org/en/)
 	* [中文网](http://nodejs.cn/)
+* Mongoose
+	* [官网](https://mongoosejs.com/)
+	* [中文网](http://mongoosejs.net/)
 * [Gulp](https://www.gulpjs.com.cn/)
 * Flutter
 	* [官网](https://flutter.io/)
