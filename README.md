@@ -206,6 +206,13 @@
 * [FKS Documentation](http://html5ify.com/fks/)
 * [awesome](https://github.com/sindresorhus/awesome)
 
+# 每日该看
+
+* [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+* [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+* [frontendDaily](https://github.com/kujian/frontendDaily)
+* [zaobao](https://github.com/wubaiqing/zaobao)
+
 # 其他
 
 ## 使用了Vue的网站
